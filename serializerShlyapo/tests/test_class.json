@@ -1,0 +1,43 @@
+{
+    "##class_type##": {
+        "name": "Class1",
+        "bases": [],
+        "dict": {
+            "a": 10,
+            "class_method": {
+                "##function_type##": {
+                    "__globals__": {},
+                    "__name__": "class_method",
+                    "__code__": {
+                        "##code_type##": {
+                            "co_argcount": 1,
+                            "co_posonlyargcount": 0,
+                            "co_kwonlyargcount": 0,
+                            "co_nlocals": 1,
+                            "co_stacksize": 2,
+                            "co_flags": 67,
+                            "co_code": "[116, 0, 124, 0, 106, 1, 131, 1, 1, 0, 100, 0, 83, 0]",
+                            "co_consts": [
+                                null
+                            ],
+                            "co_names": [
+                                "print",
+                                "a"
+                            ],
+                            "co_varnames": [
+                                "self"
+                            ],
+                            "co_filename": "C:\\Users\\sheks\\PycharmProjects\\seril\\test_objects.py",
+                            "co_name": "class_method",
+                            "co_firstlineno": 43,
+                            "co_lnotab": "[0, 1]",
+                            "co_freevars": [],
+                            "co_cellvars": []
+                        }
+                    }
+                }
+            },
+            "__doc__": null
+        }
+    }
+}
